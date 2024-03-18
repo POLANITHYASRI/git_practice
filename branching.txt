@@ -1,0 +1,15 @@
+git init
+git add .
+git commit -m "comment"
+git remote add origin https://github.com/POLANITHYASRI/git_practice.git
+git push origin master
+git branch branch_name
+git switch/chechkout branch_name
+create a new file
+git add .
+git commit -m "comment"
+git remote add origin https://github.com/POLANITHYASRI/git_practice.git
+git push origin branch_name
+git merge branch_name
+git branch -d  branch_name--(locally)
+git push origin -delete branch_name(remoted)
